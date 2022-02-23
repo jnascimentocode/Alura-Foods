@@ -15,4 +15,4 @@ A Alura Food tem interesse em expandir seu negócio entrando no mercado indiano.
 
 ## Link do Projeto finalizado:
 
-https://app.powerbi.com/view?r=eyJrIjoiZjMxZThiNGQtNzZlMi00MmNlLWIyMjMtMzdhMmY3MGZjZDQ4IiwidCI6ImNkYTZkNWVkLTdiZjctNDZhMi1hOGNmLWU4MWE0ZmExNjUyOCJ9
+https://app.powerbi.com/view?r=eyJrIjoiZjMxZThiNGQtNzZlMi00MmNlLWIyMjMtMzdhMmY3MGZjZDQ4IiwidCI6ImNkYTZkNWVkLTdiZjctNDZhMi1hOGNmLWU4MWE0ZmExNjUyOCJ9&pageName=ReportSection3f988741894a9027a717
